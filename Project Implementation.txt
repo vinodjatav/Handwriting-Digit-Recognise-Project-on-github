@@ -1,0 +1,7 @@
+Project Implementation:
+
+1)Prepare the infrastruvture.
+2)Implement training and testing data
+3)Install the production solution
+4)Perform final verification in production
+that's all i have made my project finally.
